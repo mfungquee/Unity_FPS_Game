@@ -1,0 +1,1 @@
+﻿Destroy(gameObject,1);
